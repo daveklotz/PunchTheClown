@@ -1,0 +1,210 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PunchTheClown1AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {777, 381}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{0, 496}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PunchTheClown1AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {777, 602}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{95, 658}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PunchTheClown1 */ = {
+		activeExec = 0;
+		executables = (
+			6A4514740F3E5FA1007FCDA7 /* PunchTheClown1 */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {777, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{423, 756}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1032, 2912}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6A4514740F3E5FA1007FCDA7 /* PunchTheClown1 */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PunchTheClown1 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PunchTheClown1 */,
+		);
+		codeSenseManager = 6A4514910F3E5FB2007FCDA7 /* Code sense */;
+		executables = (
+			6A4514740F3E5FA1007FCDA7 /* PunchTheClown1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					599,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286481405;
+			PBXWorkspaceStateSaveDate = 286481405;
+		};
+		perUserProjectItems = {
+			6A0FD559107D2CD0006E588B /* PBXTextBookmark */ = 6A0FD559107D2CD0006E588B /* PBXTextBookmark */;
+			6A4517380F3F8F82007FCDA7 /* PBXTextBookmark */ = 6A4517380F3F8F82007FCDA7 /* PBXTextBookmark */;
+			6A8BC0B20F3F9030006E2FF5 /* PlistBookmark */ = 6A8BC0B20F3F9030006E2FF5 /* PlistBookmark */;
+			6A8BC0B40F3F9030006E2FF5 /* PBXTextBookmark */ = 6A8BC0B40F3F9030006E2FF5 /* PBXTextBookmark */;
+			6A8D024A0F956C5C009309CC /* PBXTextBookmark */ = 6A8D024A0F956C5C009309CC /* PBXTextBookmark */;
+			6AD74D731113B64C00EA2ED4 /* PBXTextBookmark */ = 6AD74D731113B64C00EA2ED4 /* PBXTextBookmark */;
+			6AD74D741113B64C00EA2ED4 /* PBXTextBookmark */ = 6AD74D741113B64C00EA2ED4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6A4514900F3E5FB2007FCDA7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6A0FD559107D2CD0006E588B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 423;
+	};
+	6A4514740F3E5FA1007FCDA7 /* PunchTheClown1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PunchTheClown1;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6A4514900F3E5FB2007FCDA7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6A4514910F3E5FB2007FCDA7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6A4516CF0F3F8D37007FCDA7 /* Texture2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 1568}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2012, 762}";
+		};
+	};
+	6A4517380F3F8F82007FCDA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6A4516CF0F3F8D37007FCDA7 /* Texture2D.h */;
+		name = "Texture2D.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 2012;
+	};
+	6A8BC0B20F3F9030006E2FF5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dklotz/Xcode Projects/iPhone Projects/PunchTheClown1/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6A8BC0B40F3F9030006E2FF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PunchTheClown1AppDelegate.m */;
+		name = "PunchTheClown1AppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 658;
+		vrLoc = 95;
+	};
+	6A8D024A0F956C5C009309CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	6AD74D731113B64C00EA2ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PunchTheClown1AppDelegate.h */;
+		name = "PunchTheClown1AppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	6AD74D741113B64C00EA2ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PunchTheClown1AppDelegate.h */;
+		name = "PunchTheClown1AppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+}
